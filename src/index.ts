@@ -3,4 +3,6 @@ import './config';
 //import './hiddenFormula';
 //import './findPath'
 //import './self-dividingnumber';
-import './hIndex'
+// import './hIndex'
+
+import './MajorityElement2';
