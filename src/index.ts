@@ -5,4 +5,6 @@ import './config';
 //import './self-dividingnumber';
 // import './hIndex'
 
-import './MajorityElement2';
+//import './MajorityElement2';
+// import './longestArithSeqLength';
+import './LISsolveDP';
