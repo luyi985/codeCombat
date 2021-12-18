@@ -5,5 +5,6 @@ describe('calculate', () => {
         expect(calculate([5, 10])).toBe(5);
         expect(calculate([5, 2, 10])).toBe(8);
         expect(calculate([70, 60, 70, 65, 80, 70, 60])).toBe(20);
+        expect(calculate([70, 90, 70, 65, 80, 70, 60])).toBe(20);
     });
 });
