@@ -1,3 +1,4 @@
+import { add } from '@lyi-sdk/utils';
 import './config';
 // import './rotateString';
 //import './hiddenFormula';
@@ -8,4 +9,5 @@ import './config';
 //import './MajorityElement2';
 // import './longestArithSeqLength';
 // import './LISsolveDP';
-import './asyncRetry';
+//import './asyncRetry';
+console.log(add(1, 2));
