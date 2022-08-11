@@ -10,4 +10,4 @@ import './config';
 // import './longestArithSeqLength';
 // import './LISsolveDP';
 //import './asyncRetry';
-console.log(add(1, 2));
+import './gof/state';
